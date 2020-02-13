@@ -4,9 +4,9 @@ Analyzed US domestic delay data to identify most delayed routes and recommend in
 Used PySpark through Databricks to analyse free data from the DOT to find most delayed routes (by a combination of arrival and destination delay) and routes for airlines to add flight volume (as a function of where a given airline already flies and has the lowest total delay)
 Used Tableau to visualize all of the outputs from PySpark 
 
-![New Routes](New Routes.png)
+![New_Routes](New_Routes.jpg)
 
-![Delayed Routes](Delayed Routes.png)
+![Delayed_Routes](Delayed_Routes.jpg)
 
 Instructions
 
